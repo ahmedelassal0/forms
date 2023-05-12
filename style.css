@@ -135,7 +135,7 @@ body {
     height: 2px;
     background: #cacaca;
     top: 50%;
-    left: 1.5em;
+    left: 1em;
     position: absolute;
     transform: translateY(-50%);
     transform: translateX(230%);
